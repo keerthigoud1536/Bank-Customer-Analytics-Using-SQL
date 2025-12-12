@@ -28,11 +28,3 @@ Subqueries
 Creating Views for reporting
 Stored Procedures (if used)
 
-# 📈 Example Insights Generated
-
-Most common customer age group
-Average account balance per branch
-Top 10 high-value customers
-Number of customers with loans vs. without loans
-Branch-wise customer distribution
-Customers with unusually low or high account balances
