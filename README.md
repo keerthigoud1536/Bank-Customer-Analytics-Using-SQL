@@ -18,13 +18,22 @@ Other demographic or financial variables
 # 🛠️ SQL Skills Used
 
 DDL (CREATE TABLE, ALTER, DROP)
+
 DML (INSERT, UPDATE, DELETE)
+
 Data Cleaning (handling NULL values, standardization)
+
 Filtering using WHERE, BETWEEN, LIKE
+
 Grouping & Aggregation: COUNT, SUM, AVG, MIN, MAX
+
 Joins: INNER JOIN, LEFT JOIN
+
 Window Functions: RANK, ROW_NUMBER, PARTITION BY (if used)
+
 Subqueries
+
 Creating Views for reporting
+
 Stored Procedures (if used)
 
